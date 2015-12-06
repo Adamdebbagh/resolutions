@@ -15,11 +15,7 @@ if (Meteor.isClient) {
           return Session.get('hideFinished');
       }
   });
-  Template.resolution.helpers({
-      'isOwner': function () {
-          return this.owner === Meteor.userId();
-      }
-  });
+
   Template.body.events({
       // on submit, grab the title value
      'submit .new-resolution': function(event) {
@@ -36,17 +32,7 @@ if (Meteor.isClient) {
           Session.set('hideFinished',event.target.checked );
       }
   });
-  Template.resolution.events({
-      'click .toggle-checked': function(){
-          Meteor.call("updateResolution",this._id, !this.checked);
-      },
-      'click .delete': function() {
-          Meteor.call("deleteResolution", this._id);
-      },
-      'click .toggle-private': function(){
-          Meteor.call("setPrivate",this._id, !this.private);
-      },
-  });
+
 
     Accounts.ui.config({
         passwordSignupFields:"USERNAME_ONLY"
