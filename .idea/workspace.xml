@@ -21,16 +21,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="resolutions.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="resolutions.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resolutions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.8484848">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="36" />
-              <folding>
-                <marker date="1449409635000" expanded="true" signature="76:615" placeholder="..." />
-                <marker date="1449409635000" expanded="true" signature="169:290" placeholder="..." />
-                <marker date="1449409635000" expanded="true" signature="329:473" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="0.5502092">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -39,17 +35,17 @@
         <entry file="file://$PROJECT_DIR$/resolutions.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+              <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resolutions.styl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="resolutions.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resolutions.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10041841">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state vertical-scroll-proportion="-10.181818">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -63,9 +59,9 @@
         <option value="$PROJECT_DIR$/hello.js" />
         <option value="$PROJECT_DIR$/hello.html" />
         <option value="$PROJECT_DIR$/hello.css" />
-        <option value="$PROJECT_DIR$/resolutions.html" />
-        <option value="$PROJECT_DIR$/resolutions.js" />
         <option value="$PROJECT_DIR$/resolutions.styl" />
+        <option value="$PROJECT_DIR$/resolutions.js" />
+        <option value="$PROJECT_DIR$/resolutions.html" />
       </list>
     </option>
   </component>
@@ -259,30 +255,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resolutions.html">
+    <entry file="file://$PROJECT_DIR$/resolutions.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8484848">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <marker date="1449409635000" expanded="true" signature="76:615" placeholder="..." />
-            <marker date="1449409635000" expanded="true" signature="169:290" placeholder="..." />
-            <marker date="1449409635000" expanded="true" signature="329:473" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="-10.181818">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resolutions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resolutions.styl">
+    <entry file="file://$PROJECT_DIR$/resolutions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10041841">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.5502092">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding />
         </state>
       </provider>
