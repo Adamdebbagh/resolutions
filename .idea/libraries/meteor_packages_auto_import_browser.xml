@@ -115,7 +115,11 @@
         <item url="file://$USER_HOME$/.meteor/packages/http/1.1.1/web.browser/deprecated.js" />
         <item url="file://$USER_HOME$/.meteor/packages/http/1.1.1/web.browser/httpcall_common.js" />
         <item url="file://$USER_HOME$/.meteor/packages/http/1.1.1/web.browser/httpcall_client.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/accounts-facebook/1.0.6/web.browser/facebook.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/accounts-facebook/1.0.6/web.browser/facebook_login_button.css" />
         <item url="file://$USER_HOME$/.meteor/packages/id-map/1.0.4/web.browser/id-map.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/facebook/1.2.2/web.browser/facebook_configure.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/facebook/1.2.2/web.browser/facebook_client.js" />
         <item url="file://$USER_HOME$/.meteor/packages/jquery/1.11.4/web.browser/jquery.js" />
         <item url="file://$USER_HOME$/.meteor/packages/jquery/1.11.4/web.browser/post.js" />
         <item url="file://$USER_HOME$/.meteor/packages/launch-screen/1.0.4/web.browser/default-behavior.js" />
@@ -252,7 +256,11 @@
       <root url="file://$USER_HOME$/.meteor/packages/http/1.1.1/web.browser/deprecated.js" />
       <root url="file://$USER_HOME$/.meteor/packages/http/1.1.1/web.browser/httpcall_common.js" />
       <root url="file://$USER_HOME$/.meteor/packages/http/1.1.1/web.browser/httpcall_client.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/accounts-facebook/1.0.6/web.browser/facebook.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/accounts-facebook/1.0.6/web.browser/facebook_login_button.css" />
       <root url="file://$USER_HOME$/.meteor/packages/id-map/1.0.4/web.browser/id-map.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/facebook/1.2.2/web.browser/facebook_configure.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/facebook/1.2.2/web.browser/facebook_client.js" />
       <root url="file://$USER_HOME$/.meteor/packages/jquery/1.11.4/web.browser/jquery.js" />
       <root url="file://$USER_HOME$/.meteor/packages/jquery/1.11.4/web.browser/post.js" />
       <root url="file://$USER_HOME$/.meteor/packages/launch-screen/1.0.4/web.browser/default-behavior.js" />

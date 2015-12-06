@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5808dad3-3a82-4eaf-b1de-652e60a79fa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" afterPath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/versions" afterPath="$PROJECT_DIR$/.meteor/versions" />
     </list>
     <ignored path="resolutions.iws" />
     <ignored path=".idea/workspace.xml" />
