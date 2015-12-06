@@ -58,7 +58,12 @@ if (Meteor.isServer) {
     // code to run on server at startup
   });
   Meteor.publish("resolutions",function(){
-        return Resolutions.find();
+        return Resolutions.find({
+            $or: [
+                {private:{$ne:true}},
+                {owner:this.userId }
+            ]
+        });
     });
 }
 
@@ -72,9 +77,18 @@ Meteor.methods({
         });
     },
     deleteResolution: function (id) {
+        var res = Resolutions.findOne(id);
+        if (res.owner !== Meteor.userId()) {
+            throw new Meteor.Error('Not Authorized');
+        }
+
         Resolutions.remove(id);
     },
     updateResolution: function (id, checked) {
+        var res = Resolutions.findOne(id);
+        if (res.owner !== Meteor.userId()) {
+            throw new Meteor.Error('Not Authorized');
+        }
         Resolutions.update(id, {$set:{checked:checked}});
     },
     setPrivate: function (id, private) {
